@@ -1,0 +1,47 @@
+.aboutTitle {
+  margin-bottom: 0px;
+  margin-top: 8px;
+  font-size: 48px;
+  padding-bottom: 0;
+  text-shadow: 2px 2px #ffbf00;
+}
+.description {
+  margin: 0px;
+  padding: 0;
+}
+
+.webDevelopmentInfo {
+  border-radius: 5px;
+  background-color: rgb(5, 12, 28);
+  padding-bottom: 20px;
+  margin-bottom: 8px;
+}
+
+.skills {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: auto;
+  max-width: 800px;
+}
+.playStoreImg {
+  width: 100px;
+  padding: 3px 5px;
+  cursor: pointer;
+}
+
+.skill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  padding: 0 10px;
+  margin: 4px;
+  background-color: #2f2f2f;
+  border-radius: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  color: white;
+  font-size: 16px;
+  text-transform: uppercase;
+}

@@ -9,7 +9,7 @@ export default function App() {
       base={import.meta.env.SERVER_BASE_URL}
       root={(props) => (
         <MetaProvider>
-          <Title>SolidStart - with Vitest</Title>
+          <Title>The Slanted Room</Title>
           <Suspense>{props.children}</Suspense>
         </MetaProvider>
       )}
