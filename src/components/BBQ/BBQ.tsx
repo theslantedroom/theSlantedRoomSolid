@@ -1,6 +1,5 @@
 import type { Component } from "solid-js";
 import { JSX, createSignal, onMount } from "solid-js";
-import Bowser from "bowser";
 
 export const imgBBq = "img/bbq.jpg";
 export const bacon_heaven = "img/bacon_heaven.png";
@@ -13,16 +12,6 @@ interface Props {
 const BBQ: Component<Props> = ({
   mainTitle = "The Slanted Room",
 }): JSX.Element => {
-  const [isMobile, setIsMobile] = createSignal(true);
-  console.log("isMobile", isMobile());
-  const [date] = createSignal("[Date]");
-
-  onMount(() => {
-    const bowser = Bowser.getParser(window?.navigator?.userAgent);
-    const isMobile = bowser.getPlatformType(true) === "mobile";
-    setIsMobile(isMobile);
-  });
-
   const bannerCss = {
     backgroundSize: "cover",
     backgroundPosition: "center",
