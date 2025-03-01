@@ -1,121 +1,89 @@
 {
-  "_bbq-CqOOYlDi.css": {
-    "file": "assets/bbq-CqOOYlDi.css",
-    "src": "_bbq-CqOOYlDi.css"
-  },
   "_privacyPolicy-vlytgIm9.css": {
     "file": "assets/privacyPolicy-vlytgIm9.css",
     "src": "_privacyPolicy-vlytgIm9.css"
   },
-  "_web-x8bnSWTe.js": {
-    "file": "assets/web-x8bnSWTe.js",
+  "_web-Dd64nO4q.js": {
+    "file": "assets/web-Dd64nO4q.js",
     "name": "web"
   },
   "src/routes/IdleInfluencerPrivacyPolicy.tsx?pick=default&pick=$css": {
-    "file": "assets/IdleInfluencerPrivacyPolicy-CXWY2vNA.js",
+    "file": "assets/IdleInfluencerPrivacyPolicy-BGe1rXXx.js",
     "name": "IdleInfluencerPrivacyPolicy",
     "src": "src/routes/IdleInfluencerPrivacyPolicy.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_web-x8bnSWTe.js"
+      "_web-Dd64nO4q.js"
     ],
     "css": [
       "assets/privacyPolicy-vlytgIm9.css"
     ]
   },
   "src/routes/IdleTrillionairePrivacyPolicy.tsx?pick=default&pick=$css": {
-    "file": "assets/IdleTrillionairePrivacyPolicy-CVQUlr2C.js",
+    "file": "assets/IdleTrillionairePrivacyPolicy-BcNPzFxq.js",
     "name": "IdleTrillionairePrivacyPolicy",
     "src": "src/routes/IdleTrillionairePrivacyPolicy.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_web-x8bnSWTe.js"
+      "_web-Dd64nO4q.js"
     ],
     "css": [
       "assets/privacyPolicy-vlytgIm9.css"
     ]
   },
   "src/routes/TurnBasedBoxingPrivacyPolicy.tsx?pick=default&pick=$css": {
-    "file": "assets/TurnBasedBoxingPrivacyPolicy-BI0oEe89.js",
+    "file": "assets/TurnBasedBoxingPrivacyPolicy-Cp81MwF4.js",
     "name": "TurnBasedBoxingPrivacyPolicy",
     "src": "src/routes/TurnBasedBoxingPrivacyPolicy.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_web-x8bnSWTe.js"
+      "_web-Dd64nO4q.js"
     ],
     "css": [
       "assets/privacyPolicy-vlytgIm9.css"
     ]
   },
-  "src/routes/bbq.tsx?pick=default&pick=$css": {
-    "file": "assets/bbq-B6Nxh0hN.js",
-    "name": "bbq",
-    "src": "src/routes/bbq.tsx?pick=default&pick=$css",
-    "isEntry": true,
-    "isDynamicEntry": true,
-    "imports": [
-      "_web-x8bnSWTe.js"
-    ],
-    "css": [
-      "assets/bbq-CqOOYlDi.css"
-    ]
-  },
-  "src/routes/bbq2024.tsx?pick=default&pick=$css": {
-    "file": "assets/bbq2024-Dgl5Gi0P.js",
-    "name": "bbq2024",
-    "src": "src/routes/bbq2024.tsx?pick=default&pick=$css",
-    "isEntry": true,
-    "isDynamicEntry": true,
-    "imports": [
-      "_web-x8bnSWTe.js"
-    ],
-    "css": [
-      "assets/bbq-CqOOYlDi.css"
-    ]
-  },
   "src/routes/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-BN8WrdfI.js",
+    "file": "assets/index-C2IBxGCG.js",
     "name": "index",
     "src": "src/routes/index.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_web-x8bnSWTe.js"
+      "_web-Dd64nO4q.js"
     ],
     "css": [
       "assets/index-DCHVj7ba.css"
     ]
   },
   "src/routes/lmsDominatorCompantionPrivacyPolicy.tsx?pick=default&pick=$css": {
-    "file": "assets/lmsDominatorCompantionPrivacyPolicy-B8n7m2VZ.js",
+    "file": "assets/lmsDominatorCompantionPrivacyPolicy-BmmoTY44.js",
     "name": "lmsDominatorCompantionPrivacyPolicy",
     "src": "src/routes/lmsDominatorCompantionPrivacyPolicy.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_web-x8bnSWTe.js"
+      "_web-Dd64nO4q.js"
     ],
     "css": [
       "assets/privacyPolicy-vlytgIm9.css"
     ]
   },
   "virtual:$vinxi/handler/client": {
-    "file": "assets/client-VaIdSaPy.js",
+    "file": "assets/client-lNv-qFLX.js",
     "name": "client",
     "src": "virtual:$vinxi/handler/client",
     "isEntry": true,
     "imports": [
-      "_web-x8bnSWTe.js"
+      "_web-Dd64nO4q.js"
     ],
     "dynamicImports": [
       "src/routes/IdleInfluencerPrivacyPolicy.tsx?pick=default&pick=$css",
       "src/routes/IdleTrillionairePrivacyPolicy.tsx?pick=default&pick=$css",
       "src/routes/TurnBasedBoxingPrivacyPolicy.tsx?pick=default&pick=$css",
-      "src/routes/bbq.tsx?pick=default&pick=$css",
-      "src/routes/bbq2024.tsx?pick=default&pick=$css",
       "src/routes/index.tsx?pick=default&pick=$css",
       "src/routes/lmsDominatorCompantionPrivacyPolicy.tsx?pick=default&pick=$css"
     ]
